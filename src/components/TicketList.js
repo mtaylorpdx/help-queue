@@ -3,12 +3,12 @@ import Ticket from "./Ticket";
 
 const masterTicketList = [
   {
-    names: 'Moost and Squirrel',
+    names: 'Moose and Squirrel',
     location: '3A',
     issue: 'Boris is at it again'
   },
   {
-    names: 'Jekyl and Hyde',
+    names: 'Jekyll and Hyde',
     location: '4B',
     issue: 'Night terrors'
   },
